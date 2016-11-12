@@ -1,0 +1,26 @@
+c:\users\hassan\documents\visual studio 2015\Projects\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.exe.config
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.exe
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.xml
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.vbprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form1.resources
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Resources.resources
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.vbproj.GenerateResource.Cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.exe
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.xml
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form2.resources
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form3.resources
+E:\work\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.exe.config
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.exe
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.xml
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.pdb
+E:\work\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.exe
+E:\work\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.pdb
+E:\work\Zalim The Game\Zalim The Game\bin\Debug\Zalim The Game.xml
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.vbprojResolveAssemblyReference.cache
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form1.resources
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form2.resources
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Form3.resources
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim_The_Game.Resources.resources
+E:\work\Zalim The Game\Zalim The Game\obj\Debug\Zalim The Game.vbproj.GenerateResource.Cache
